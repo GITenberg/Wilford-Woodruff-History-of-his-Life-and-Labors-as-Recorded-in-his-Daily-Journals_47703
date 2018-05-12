@@ -1,4 +1,8 @@
 _repo: Wilford-Woodruff-History-of-his-Life-and-Labors-as-Recorded-in-his-Daily-Journals_47703
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47703-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Woodruff, Wilford
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44265'
     url: http://www.gutenberg.org/2009/agents/44265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47703#Wilford-Woodruff-History-of-his-Life-and-Labors-as-Recorded-in-his-Daily-Journals
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-12-19'
 gutenberg_type: Text
